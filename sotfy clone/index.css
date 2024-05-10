@@ -1,0 +1,119 @@
+.logo img{
+
+	height: 40px;
+ 	width: 124px;
+ 	color: whitew;
+ 	display: flex;
+ 	align-items: center;
+ 	font-weight: bolder;
+ 	font-size: 1.3rem;
+}
+
+nav ul{
+	display: inline-block;
+	display: flex;
+	list-style-type: none;
+	background: black;
+	font-size: 20px;
+	color: white;
+	padding: 5px;
+
+
+}
+*{
+
+	margin: 0px;
+	padding: 0px;
+}
+nav ul li{
+	margin-left: 20px;
+	cursor:pointer;
+
+}
+/*.songbanner{
+	height: 560px;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image:url('20.jpg');
+}*/
+
+.bottom{
+	 
+	height: 60px;
+	width: 100%;
+	background: black;
+
+}
+
+.contenar{
+
+	min-height: 70vh;
+	width: 70%;
+	margin: auto;
+	padding: 20px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+ 	border-radius: 10px;
+	background-image: url('2.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+#myProgress{
+	width: 85%;
+	margin-left:110px;
+
+
+}
+
+mark::#myProgress{
+	color: white;
+}
+.mt{
+
+	color: whitesmoke;
+	margin-left: 20px;
+
+ 
+}
+
+
+.icon{
+
+	display: flex;
+	justify-content:center;
+	align-items: center;
+
+
+}
+
+.songItem{
+
+	height: 50px;
+	display: flex;
+	background: white;
+	width: 40%;
+	padding: 0px 20px 0px 20px;
+	color: black;
+	margin: 12px 0;
+	justify-content: space-between;
+	align-items: center;
+	border-radius: 50px;
+}
+.songItem img{
+	border-radius: 50%;
+	width:50px;
+	height:45px;
+
+}
+.mt1{
+	color: black;
+}
+
+ 
+ .m_top{
+
+ 	margin-top: 11px;
+ }
